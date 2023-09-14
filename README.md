@@ -21,3 +21,48 @@ Data Engines MASoiC V1 Engine abstraction allows for reusing the APIs for differ
 
 # Documentação
 Please find the User Guide of MASoiC v1
+
+
+# Getting MASoiC V1
+From source: Install MASoiC V1 documentation requires: CMake v3.6 or above. For a cmake configuration example see scripts/runconf/runconf.sh
+
+anaconda and others Conda packages:
+https://anaconda.org
+https://anaconda.org/conda-forge/....
+
+Docker images:
+
+Ubuntu 18.04: under scripts/docker/images/ubuntu18.04/Dockerfile
+Once MASoiC V1 is installed refer to:
+
+Linking MASoiC V1
+
+
+# Releases
+Latest release: v1.0.0
+
+Previous releases: https://github.com/ornladios/MASoiC_V1/releases
+
+# Reporting Bugs
+If you found a bug, please open an issue on MASoiC_V1 github repository
+
+# Contributing
+We invite the community to contribute, see Contributor's Guide to MASoiC V1 for instructions on how to contribute. MASoiC V1 will always be free and open-source.
+
+# License
+MASoiC_V1 >= 1.0 is licensed under the Apache License v2.0. See the accompanying Copyright.txt for more details.
+
+# Directory layout
+bindings - public application programming interface, API, language bindings (C++11, C, Fortran, Python and Matlab)
+
+cmake - Project specific CMake modules
+
+examples - Simple set of examples in different languages
+
+scripts - Project maintenance and development scripts
+
+source - Internal source code for private components
+
+MASoiC - source directory for the ADIOS2 library to be installed under install-dir/lib/libadios2.
+utils - source directory for the binary utilities, to be installed under install-dir/bin
+testing - Tests using gtest
