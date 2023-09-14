@@ -63,6 +63,6 @@ scripts - Project maintenance and development scripts
 
 source - Internal source code for private components
 
-MASoiC - source directory for the ADIOS2 library to be installed under install-dir/lib/libadios2.
+MASoiC - source directory for the MASoiC V1 library to be installed under install-dir/lib/libMASoiC_V1.
 utils - source directory for the binary utilities, to be installed under install-dir/bin
 testing - Tests using gtest
