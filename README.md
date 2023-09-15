@@ -74,7 +74,9 @@ Starting the container with JADE must be done by a common Java application and i
 ![image](https://github.com/guinaspas/MASoiC/assets/75345281/579565b2-6748-4fa4-af62-f9a8f975fb9d)
 
 
+2)	Start of the Secondary Container with the importing agent – this container will be for use by those interested in carrying out an import
 
+![image](https://github.com/guinaspas/MASoiC/assets/75345281/5b03e6a4-62b0-45e1-b1c0-681d41d86d8b)
 
 
 ![image](https://github.com/guinaspas/MASoiC/assets/75345281/e66b01c4-b53f-449c-ab72-fb8e50cae5bd)
