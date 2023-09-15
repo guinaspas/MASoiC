@@ -1,0 +1,8 @@
+Requirement
+
+•	MetaTrader5
+•	AutoIT
+•	Python 
+•	Java JDK 8
+•	Eclipse jee índigo SR2
+•	Jade framework
