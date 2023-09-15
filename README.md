@@ -65,6 +65,31 @@ Data extractions from bodies such as the World Bank were done with this software
 After installing Auto IT we need to use “autoit-v3-setup.exe” which brings a setup that will place the files in the “AutoIT3” folder in “Program Files (x86)”. Within this folder we can obtain the “Extras” support programs. 
 
 
+PYTHON INSTALLATION
+
+For Python we use the Anaconda distribution, the installer can be found at the URL (https://www.anaconda.com/products/distribution) and is available for Windows, Linux and Mac. With Anaconda installed we can download most of the libraries used in development with Python, for example, the OS and Pandas library. With Python, we built, for example, an auxiliary program to structure the MASoiC software environment.
+
+![image](https://github.com/guinaspas/MASoiC/assets/75345281/4027931b-c6cd-4945-b02e-85564c50c278)
+
+Installing anaconda with jupyter notebook.
+ 
+![image](https://github.com/guinaspas/MASoiC/assets/75345281/9293db75-3823-46ff-af90-3705e594190f)
+
+Java JDK8 and Eclipse Installation
+
+After installing Eclipse and Java JDK8, we started adding the Jade framework library. In this sense, we can then start the negotiation ecosystem with agents developed in Java with JADE. 
+Starting the container with JADE must be done by a common Java application and its start will use localhost.
+
+1)	 Start of the main container 
+
+
+![image](https://github.com/guinaspas/MASoiC/assets/75345281/7245f286-39c6-4a1b-a903-4ea6f5a7353d)
+
+
+![image](https://github.com/guinaspas/MASoiC/assets/75345281/579565b2-6748-4fa4-af62-f9a8f975fb9d)
+
+
+
 
 
 ![image](https://github.com/guinaspas/MASoiC/assets/75345281/e66b01c4-b53f-449c-ab72-fb8e50cae5bd)
