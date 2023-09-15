@@ -22,6 +22,9 @@ Data Engines MASoiC V1 Engine abstraction allows for reusing the APIs for differ
 # Documentação
 Please find the User Guide of MASoiC v1
 
+![image](https://github.com/guinaspas/MASoiC/assets/75345281/e66b01c4-b53f-449c-ab72-fb8e50cae5bd)
+
+
 
 # Getting MASoiC V1
 From source: Install MASoiC V1 documentation requires: CMake v3.6 or above. For a cmake configuration example see scripts/runconf/runconf.sh
