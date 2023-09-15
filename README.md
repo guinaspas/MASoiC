@@ -22,6 +22,51 @@ Data Engines MASoiC V1 Engine abstraction allows for reusing the APIs for differ
 # Documentação
 Please find the User Guide of MASoiC v1
 
+
+In order to use MASoiC (Multi-Agent System for Intelligent Decision Support in Import Contracts) in a development environment, it will be necessary to install some software that will be presented below.
+There is no type of order regarding installation, we just use a framework (Jade) as a dependency in the development of the multi-agent ecosystem.
+
+In this sense, as a starting point we have the list of software to carry out the necessary installations:
+
+•	MetaTrader5
+•	AutoIT
+•	Python 
+•	Java JDK 8
+•	Eclipse jee índigo SR2
+•	Jade framework
+
+METATRADER INSTALLATION
+
+Starting with MetaTrader5, we will follow the order presented previously, following the URL where we can find the installation file (https://www.metatrader5.com/pt/download). MetaTrader5 is free stock exchange asset data analysis software; this software is available for Windows, Linux and Mac. With this software we can be more specific in creating programs for technical analysis and analytical instruments with regard to to stock exchange assets.
+
+![image](https://github.com/guinaspas/MASoiC/assets/75345281/6eec94df-6e92-4d15-a9db-4f6f0db4dda1)
+
+AUTOIT v3 INSTALLATION
+
+Next step, we will install AutoIT, which is software that allows you to build an RPA to search for information that is not available via a REST API, for example. This software can be found at URL (https://www.autoitscript.com/site/autoit/downloads/), the software is available for Windows, Linux and Mac.
+Data extractions from bodies such as the World Bank were done with this software, as we did not have a REST API available. In this way, it was possible to create automations to enable the extraction of important data for decision making.
+
+![image](https://github.com/guinaspas/MASoiC/assets/75345281/f48e4cb6-3dbd-4f4c-a5dc-b87f9e103d60)
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+After installing Auto IT we need to use “autoit-v3-setup.exe” which brings a setup that will place the files in the “AutoIT3” folder in “Program Files (x86)”. Within this folder we can obtain the “Extras” support programs. 
+
+
+
+
 ![image](https://github.com/guinaspas/MASoiC/assets/75345281/e66b01c4-b53f-449c-ab72-fb8e50cae5bd)
 
 
