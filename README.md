@@ -11,7 +11,7 @@ Interfaces allow various modes of information transport (files, messages, memory
 
 Ease of use of the system was enabled through a combination of developments with: Python 3, Java, Jade, MQL5 and AutoIT v3.
 
-Furthermore, the APIs made for MASoiC V1 are based on 3 Data Groups where one interface provides an RPA-type integration for searching historical data, another an online integration with the MQL5-type stock exchange through MetaTrader 5 , finally the simulation mode that performs the message exchange for decision making.
+Furthermore, the APIs made for MASoiC V1 are based on three different Data Groups where one interface provides an RPA-type integration for searching historical data, another an online integration with the MQL5-type stock exchange through MetaTrader 5 , finally the simulation mode that performs the message exchange for decision making.
 
 In the data stage MASoiC V1 follows a real data consumption flow using an abstraction of I/O “steps”, eliminating the need for more detailed management.
 
