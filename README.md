@@ -1,6 +1,6 @@
 # Title / name of your software 
 
-MASoiC – Multi-Agent System to Support Decisions on Import Contracts
+MASoiC: Multi-Agent System to Support Decisions on Import Contracts
 
 # Authors: 
 Guilherme Nascimento Pate Santos*, Carlos José Pereira De Lucena
