@@ -18,7 +18,7 @@ In the data stage MASoiC V1 follows a real data consumption flow using an abstra
 Data Engines The MASoiC V1 engine abstraction allows you to reuse APIs for different scenarios, eliminating the need for drastic code changes.
 
 
-# Documentação
+# Documentation
 Please find the User Guide of MASoiC v1
 
 
