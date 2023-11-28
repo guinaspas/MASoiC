@@ -7,7 +7,7 @@ Provide a scalable application with good I/O performance.
 
 Integrate interfaces of different types, which allows for adaptability of behavior.
 
-Interfaces allow various modes of information transport (files, messages, memory to memory)
+Interfaces allow various modes of information transport (files, messages, memory)
 
 Ease of use of the system was enabled through a combination of developments with: Python 3, Java, Jade, MQL5 and AutoIT v3.
 
