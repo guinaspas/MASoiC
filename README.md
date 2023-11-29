@@ -61,7 +61,16 @@ Data extractions from bodies such as the World Bank were done with this software
 
 ![image](https://github.com/guinaspas/MASoiC/assets/75345281/f48e4cb6-3dbd-4f4c-a5dc-b87f9e103d60)
 
-After installing Auto IT we need to use “autoit-v3-setup.exe” which brings a setup that will place the files in the “AutoIT3” folder in “Program Files (x86)”. Within this folder we can obtain the “Extras” support programs. 
+After installing Auto IT we need to use “autoit-v3-setup.exe” which brings a setup that will place the files in the “AutoIT3” folder in “Program Files (x86)”. Within this folder we can obtain the “Extras” support programs.
+
+Video Configuration for RPA search interface for historical data on the value of the dollar and average selling price of gasoline.
+•	Monitor Used: Intel(R) UHD Graphics
+•	Configured Video Size: 1366 x 768 
+•	Bit Depth: 6 bits
+•	Frequency: 60,06 Hz
+•	Color Format: RGB
+•	Color Space: SDR
+
 
 PYTHON INSTALLATION
 
