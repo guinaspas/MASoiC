@@ -1,12 +1,18 @@
 # Title / name of your software 
 
-MASoiC: Multi-Agent System to Support Decisions on Import Contracts
+**MASoiC:** Multi-Agent System to Support Decisions on Import Contracts
 
 # Authors: 
-Guilherme Nascimento Pate Santos*, Carlos José Pereira De Lucena
+
+* Guilherme Nascimento Pate Santos
+* Carlos José Pereira De Lucena
 
 # Affiliations:
-Computer Science Department of Pontifical Catholic University of Rio de Janeiro, Marquês de São Vicente Street, 225 - CEP 22453-900 Rio de Janeiro – Brazil.
+Pontifical Catholic University of Rio de Janeiro, 
+<br>
+Computer Science Department
+<br>
+Marquês de São Vicente Street, 225 - CEP 22453-900 Rio de Janeiro – Brazil.
 
 # Corresponding author’s email address and Twitter handle
 {gnascimento@inf.puc-rio.br; guinaspas@gmail.com; Twitter: @guinaspas}*
