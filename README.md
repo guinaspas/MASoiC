@@ -168,8 +168,8 @@ MASoiC_V1 >= 1.0 is licensed under the Apache License v2.0. See the accompanying
 
 # Directory layout
 
-MASoiC - source directory for the MASoiC V1 library to be installed under install-dir/lib/libMASoiC_V1.
-data set - Data for simulate dolar value and gas value
-scripts - Project to run 
-source - Internal source code
-utils - Source directory for the binary utilities, to be installed under install-dir/bin
+* MASoiC - source directory for the MASoiC V1 library to be installed under install-dir/lib/libMASoiC_V1.
+* data set - Data for simulate dolar value and gas value
+* scripts - Project to run
+* source - Internal source code
+* utils - Source directory for the binary utilities, to be installed under install-dir/bin
