@@ -31,6 +31,15 @@ In the data stage MASoiC V1 follows a real data consumption flow using an abstra
 
 Data Engines The MASoiC V1 engine abstraction allows you to reuse APIs for different scenarios, eliminating the need for drastic code changes.
 
+*******
+Summary
+ 1. [MetaTrader5](#trader)
+ 2. [AutoIT](#RPA)
+ 3. [Python](#py)
+ 4. [Eclipse jee índigo SR2 e Java JDK8](#java)
+ 5. [Jade framework](#Jade)
+
+*******
 
 # Documentation
 Please find the User Guide of MASoiC v1
@@ -48,6 +57,7 @@ In this sense, as a starting point we have the list of software to carry out the
 * **Eclipse jee índigo SR2**
 * **Jade framework**
 
+<div id='trader'/> 
 METATRADER INSTALLATION
 
 Starting with MetaTrader5, we will follow the order presented previously, following the URL where we can find the installation file (https://www.metatrader5.com/pt/download). MetaTrader5 is free stock exchange asset data analysis software; this software is available for Windows, Linux and Mac. With this software we can be more specific in creating programs for technical analysis and analytical instruments with regard to to stock exchange assets.
