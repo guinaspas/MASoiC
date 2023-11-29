@@ -43,10 +43,10 @@ In this sense, as a starting point we have the list of software to carry out the
 
 * **MetaTrader5**
 * **AutoIT**
-•	Python 
-•	Java JDK 8
-•	Eclipse jee índigo SR2
-•	Jade framework
+* **Python**
+* **Java JDK 8**
+* **Eclipse jee índigo SR2**
+* **Jade framework**
 
 METATRADER INSTALLATION
 
