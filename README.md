@@ -76,7 +76,8 @@ Starting with MetaTrader5, we will follow the order presented previously, follow
 ![image](https://github.com/guinaspas/MASoiC/assets/75345281/6eec94df-6e92-4d15-a9db-4f6f0db4dda1)
 
 <div id='RPA'/>
-AUTOIT v3 INSTALLATION
+
+ ## **[*AUTOIT v3 INSTALLATION*](https://www.autoitscript.com/site/autoit/downloads)**
 
 Next step, we will install AutoIT, which is software that allows you to build an RPA to search for information that is not available via a REST API, for example. This software can be found at URL (https://www.autoitscript.com/site/autoit/downloads/), the software is available for Windows, Linux and Mac.
 Data extractions from bodies such as the World Bank were done with this software, as we did not have a REST API available. In this way, it was possible to create automations to enable the extraction of important data for decision making.
@@ -95,7 +96,8 @@ Video Configuration for RPA search interface for historical data on the value of
 
 
 <div id='py'/>
-PYTHON INSTALLATION
+
+ ## **[*PYTHON INSTALLATION*](https://www.anaconda.com/products/distribution)**
 
 For Python we use the Anaconda distribution, the installer can be found at the URL (https://www.anaconda.com/products/distribution) and is available for Windows, Linux and Mac. With Anaconda installed we can download most of the libraries used in development with Python, for example, the OS and Pandas library. With Python, we built, for example, an auxiliary program to structure the MASoiC software environment.
 
@@ -107,9 +109,10 @@ Installing anaconda with jupyter notebook.
 
 
 <div id='java'/>
-Java JDK8 and Eclipse Installation
 
-After installing Eclipse and Java JDK8, we started adding the Jade framework library. In this sense, we can then start the negotiation ecosystem with agents developed in Java with JADE. 
+ ## **[*Java JDK8 and Eclipse Installation*](https://www.eclipse.org/downloads/packages/release/indigo/sr2)**
+
+After installing Eclipse and Java JDK8 (https://www.eclipse.org/downloads/packages/release/indigo/sr2), we started adding the Jade framework library. In this sense, we can then start the negotiation ecosystem with agents developed in Java with JADE. 
 Starting the container with JADE must be done by a common Java application and its start will use localhost.
 
 1)	 Start of the main container 
@@ -132,15 +135,19 @@ Starting the container with JADE must be done by a common Java application and i
 <div id='Jade'/>
 
 # Getting MASoiC V1
-From source: Install MASoiC V1 documentation requires: CMake v3.6 or above. For a cmake configuration example see scripts/runconf/runconf.sh
+
+## **[*Jade*](https://jade.tilab.com/)**
+
+From source: Install MASoiC V1 documentation 
+requires: Jade Framework. 
+
+/*For a cmake configuration example see scripts/runconf/runconf.sh*/
 
 anaconda and others Conda packages:
-https://anaconda.org
-https://anaconda.org/conda-forge/....
+* https://anaconda.org
+* https://anaconda.org/conda-forge/....
 
-Docker images:
 
-Ubuntu 18.04: under scripts/docker/images/ubuntu18.04/Dockerfile
 Once MASoiC V1 is installed refer to:
 
 Linking MASoiC V1
