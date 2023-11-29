@@ -36,8 +36,8 @@ Data Engines The MASoiC V1 engine abstraction allows you to reuse APIs for diffe
 Please find the User Guide of MASoiC v1
 
 
-In order to use MASoiC (Multi-Agent System for Intelligent Decision Support in Import Contracts) in a development environment, it will be necessary to install some software that will be presented below.
-There is no type of order regarding installation, we just use a framework (Jade) as a dependency in the development of the multi-agent ecosystem.
+>*In order to use MASoiC (Multi-Agent System for Intelligent Decision Support in Import Contracts) in a development environment, it will be necessary to install some software that will be presented below.
+There is no type of order regarding installation, we just use a framework (Jade) as a dependency in the development of the multi-agent ecosystem.*
 
 In this sense, as a starting point we have the list of software to carry out the necessary installations:
 
