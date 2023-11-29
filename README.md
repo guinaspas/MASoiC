@@ -136,12 +136,11 @@ Starting the container with JADE must be done by a common Java application and i
 
 # Getting MASoiC V1
 
-## **[*Jade*](https://jade.tilab.com/)**
+## **[*Jade framework for software agent*](https://jade.tilab.com/)**
 
-From source: Install MASoiC V1 documentation 
-requires: Jade Framework. 
+Use Jade .jar in your lib java project 
 
-/*For a cmake configuration example see scripts/runconf/runconf.sh*/
+From source: Install MASoiC V1 documentation  
 
 anaconda and others Conda packages:
 * https://anaconda.org
@@ -168,16 +167,9 @@ We invite the community to contribute, see Contributor's Guide to MASoiC V1 for 
 MASoiC_V1 >= 1.0 is licensed under the Apache License v2.0. See the accompanying Copyright.txt for more details.
 
 # Directory layout
-bindings - public application programming interface, API, language bindings (C++11, C, Fortran, Python and Matlab)
-
-cmake - Project specific CMake modules
-
-examples - Simple set of examples in different languages
-
-scripts - Project maintenance and development scripts
-
-source - Internal source code for private components
 
 MASoiC - source directory for the MASoiC V1 library to be installed under install-dir/lib/libMASoiC_V1.
-utils - source directory for the binary utilities, to be installed under install-dir/bin
-testing - Tests using gtest
+data set - Data for simulate dolar value and gas value
+scripts - Project to run 
+source - Internal source code
+utils - Source directory for the binary utilities, to be installed under install-dir/bin
