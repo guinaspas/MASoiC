@@ -41,8 +41,8 @@ There is no type of order regarding installation, we just use a framework (Jade)
 
 In this sense, as a starting point we have the list of software to carry out the necessary installations:
 
-•	MetaTrader5
-•	AutoIT
+* **MetaTrader5**
+* **AutoIT**
 •	Python 
 •	Java JDK 8
 •	Eclipse jee índigo SR2
