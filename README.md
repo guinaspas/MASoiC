@@ -4,15 +4,17 @@
 
 # Authors: 
 
-* Guilherme Nascimento Pate Santos
+* Guilherme Nascimento Pate Santos*
 * Carlos José Pereira De Lucena
 
 # Affiliations:
-Pontifical Catholic University of Rio de Janeiro, 
+Pontifical Catholic University of Rio de Janeiro 
 <br>
 Computer Science Department
 <br>
-Marquês de São Vicente Street, 225 - CEP 22453-900 Rio de Janeiro – Brazil.
+Marquês de São Vicente Street, 225 - Rio de Janeiro
+<br>
+CEP 22453-900  – Brazil
 
 # Corresponding author’s email address and Twitter handle
 {gnascimento@inf.puc-rio.br; guinaspas@gmail.com; Twitter: @guinaspas}*
