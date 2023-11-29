@@ -4,7 +4,7 @@
 
 # Authors: 
 
-* Guilherme Nascimento Pate Santos*
+* Guilherme Nascimento Pate Santos
 * Carlos José Pereira De Lucena
 
 # Affiliations:
@@ -16,10 +16,11 @@ Marquês de São Vicente Street, 225 - Rio de Janeiro
 <br>
 CEP 22453-900  – Brazil
 
-# Corresponding author’s email address and Twitter handle
+# Author’s email address and Twitter handle
 * **e-mail:** gnascimento@inf.puc-rio.br
 * **e-mail:** guinaspas@gmail.com
 * **Twitter:** @guinaspas
+* **e-mail:** lucena@inf.puc-rio.br 
 
 # MASoiC
 Multi-agent System for Decision Support in Import Contracts
