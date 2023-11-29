@@ -17,8 +17,9 @@ Marquês de São Vicente Street, 225 - Rio de Janeiro
 CEP 22453-900  – Brazil
 
 # Corresponding author’s email address and Twitter handle
-{gnascimento@inf.puc-rio.br; guinaspas@gmail.com; Twitter: @guinaspas}*
-
+* **e-mail:** gnascimento@inf.puc-rio.br
+* **e-mail:** guinaspas@gmail.com
+* **Twitter:** @guinaspas
 
 # MASoiC
 Multi-agent System for Decision Support in Import Contracts
