@@ -81,6 +81,7 @@ Starting with MetaTrader5, we will follow the order presented previously, follow
 
 Next step, we will install AutoIT, which is software that allows you to build an RPA to search for information that is not available via a REST API, for example. This software can be found at URL (https://www.autoitscript.com/site/autoit/downloads/), the software is available for Windows, Linux and Mac.
 Data extractions from bodies such as the World Bank were done with this software, as we did not have a REST API available. In this way, it was possible to create automations to enable the extraction of important data for decision making.
+The chrome browser is necessary to work correctly this RPA.
 
 ![image](https://github.com/guinaspas/MASoiC/assets/75345281/f48e4cb6-3dbd-4f4c-a5dc-b87f9e103d60)
 
