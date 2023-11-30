@@ -14,8 +14,7 @@
 7) Initialize the Importer agent
 Agent_Trading, gasoline
 
-finally the message agent used to communicate with the
-end user through the Telegram messaging application
+Finally the message agent used to communicate with the end user
 
 
 
